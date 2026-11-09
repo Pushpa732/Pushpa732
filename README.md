@@ -44,15 +44,8 @@ build reliable, user-friendly software solutions.
 
 ## 🚀 Featured Projects
 
-### 1. Student Management System
-A web-based application for managing student
-records and information efficiently.
 
-**Tech Stack:** Python | Flask | MySQL
-
-[View Project](https://github.com/Pushpa732/student-management-system)
-
-### 2. OrderFlow – Smart Order Management System
+### 1. OrderFlow – Smart Order Management System
 A software solution for managing business orders,
 customers, payments and order tracking.
 
