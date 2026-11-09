@@ -8,25 +8,23 @@
   CSE Student | Aspiring Software Developer
 </h3>
 
-<h3 align="center">
-  CSE Student | Aspiring Software Developer
-</h3>
-
 <p align="center">
   Passionate about building practical software
   solutions and exploring modern technologies.
 </p>
 
 ---
+<h1 align="center">Hi, I'm Pushpa 👋</h1>
 
-### 👩‍💻 About Me
+<h3 align="center">
+  Aspiring Software Engineer | Python Developer
+</h3>
 
-- 🎓 Computer Science & Engineering Student
-- 💻 Interested in Full-Stack Development
-- 🐍 Learning Python and Django
-- 🤖 Exploring AI Engineering and Agentic AI
-- 🚀 Building real-world software projects
-- 🌱 Always learning and improving
+<p align="center">
+  Building Practical Software Solutions
+  <br>
+  Exploring Full-Stack Development & AI Engineering
+</p>
 
 
 ### 🛠️ Languages and Tools
