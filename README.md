@@ -28,13 +28,13 @@
 - 🚀 Building real-world software projects
 - 🌱 Always learning and improving
 
-### 🛠️ Technologies & Tools
 
-- **Languages:** Python, C++
-- **Backend:** Flask, Django
-- **Database:** MySQL
-- **Frontend:** HTML, CSS
-- **Tools:** Git, GitHub, VS Code
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,flask,django,mysql,html,css,git,github,vscode" />
+</p>
+
 
 ### 🎯 Career Goal
 
@@ -57,3 +57,29 @@ build reliable, user-friendly software solutions.
 <p align="center">
   Thanks for visiting my profile! 😊
 </p>
+
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Pushpa732&show_icons=true&theme=tokyonight"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpa732&layout=compact&theme=tokyonight"
+    height="165"
+  />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Pushpa732&theme=tokyonight"
+  />
+</p>
+
