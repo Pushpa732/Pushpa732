@@ -98,3 +98,37 @@ customers, payments and order tracking.
   />
 </p>
 
+---
+
+### 👀 Profile Visitors
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Pushpa732&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
+</p>
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Pushpa732">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/sadia-tarannum-pushpa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+  />
+</p>
+
